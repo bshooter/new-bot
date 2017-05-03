@@ -1,0 +1,3 @@
+name = 'BattleFarm'
+version = '1.0'
+author = 'Gibbs3333'

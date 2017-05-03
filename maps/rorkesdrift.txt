@@ -1,0 +1,15 @@
+name = 'Rorke\'s Drift'
+version = '1.0'
+author = 'Influx'
+description = ('Site of a famous battle in the Zulu War where 150'
+               'British soldiers fought off a force of 3000 Zulus')
+
+extensions = {
+     
+'attspawn': (12, 12, 15),
+'defspawn': (262, 255, 51),
+'east': (15, 258, 53),
+'west': (494, 274, 53),
+'north': (214, 433, 33),
+'flag':(312, 264, 43)
+}
