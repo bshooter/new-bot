@@ -5,4 +5,4 @@ extensions = {
 'water_damage' : 1,
 'babel' : True
 }
-fog = (255, 226, 128)
+fog = (255, 255, 255)

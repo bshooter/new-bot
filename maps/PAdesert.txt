@@ -1,4 +1,4 @@
 name = 'PAdesert'
 version = '1.0'
 author = 'Fat Idiot'
-fog = (255, 226, 128)
+fog = (240, 238, 198)
