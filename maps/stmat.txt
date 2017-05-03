@@ -1,0 +1,3 @@
+name = 'st.mathias'
+version = '1.0'
+author = 'JoJoe Stinky'

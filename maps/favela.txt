@@ -1,0 +1,4 @@
+name = 'favela'
+version = '1.0'
+author = 'Somel'
+description = 'Join the battle between police and drug traffickers.'

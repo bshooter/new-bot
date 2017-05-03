@@ -1,0 +1,5 @@
+name = 'industry'
+version = '1.0'
+author = 'Influx'
+description = ('Set in some nondescript industrial plant, with blues as police, '
+               'trying to kill all the terrorists - greens - who have taken over the plant.')

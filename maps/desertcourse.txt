@@ -1,0 +1,4 @@
+name = 'desertcourse'
+version = '1.0'
+author = 'jojoe'
+fog = (200, 188, 176)

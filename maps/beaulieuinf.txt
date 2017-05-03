@@ -1,0 +1,4 @@
+name = 'Beaulieu Abbey'
+version = '1.0'
+author = 'Serious_Sim'
+description = 'Innacurate remake of a french abbey.'

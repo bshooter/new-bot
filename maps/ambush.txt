@@ -1,0 +1,14 @@
+name = "Ambush"
+version = '1.0'
+author = 'Influx'
+description = ('Fictional WW2-based battle, where an American convoy'
+               'has been ambushed by German soldiers')
+
+extensions = {
+     
+'attspawn': (12, 12, 7),
+'defspawn': (340, 300, 59),
+'north': (383, 78, 47),
+'south': (401, 449, 46),
+'flag': (90, 249, 43)
+}

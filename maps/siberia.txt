@@ -1,0 +1,3 @@
+name = 'siberia'
+version = '1.0'
+author = 'Sneakers'

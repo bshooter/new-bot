@@ -1,0 +1,4 @@
+name = 'Alpine'
+version = '1.0'
+author = 'Dany0 and Influx'
+description = 'An alpine map with large mountains and thick forests'

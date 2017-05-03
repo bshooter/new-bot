@@ -1,0 +1,4 @@
+name = 'Lost Valley'
+version = '1.0'
+author = 'Serious_Sim'
+description = 'Challenging for the defending team, this infiltration map takes place in a long time forgotten valley where ancient temples were used for evil rituals.'

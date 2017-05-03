@@ -1,0 +1,8 @@
+name = 'Hoth'
+version = '1.0'
+author = 'Danke'
+extensions = { 
+'water_damage' : 1,
+'babel' : True
+}
+fog = (255, 255, 255)

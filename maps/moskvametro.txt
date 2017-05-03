@@ -1,0 +1,4 @@
+name = 'Moskva Metro'
+version = '0.3'
+author = 'Danke'
+fog = (255, 255, 255)
