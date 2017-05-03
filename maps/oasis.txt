@@ -3,4 +3,4 @@ version = '1.0'
 author = 'Influx'
 description = ('A desert map centred around a small village,' 
 ' with a mosque and river running through.')
-fog = (200, 188, 176)
+fog = (255, 226, 128)
