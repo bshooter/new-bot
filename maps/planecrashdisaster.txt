@@ -1,4 +1,0 @@
-name = 'PlaneCrashDisaster'
-version = '1.0'
-author = 'Buffet_of_Lies'
-description = 'A plane crash on a river in a lovely forest w/ bonus anti-zombie fortresses & rainbows!'
