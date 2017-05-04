@@ -1,3 +1,0 @@
-name = 'desertcourse'
-version = '1.0'
-author = 'jojoe'
