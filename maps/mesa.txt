@@ -3,4 +3,3 @@ version = '4.0'
 author = 'Triplefox'
 description = ('Aliens have landed in the desert. Blue and Green fight for the '
                'control over their technology.')
-fog = (255, 226, 128)
