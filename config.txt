@@ -19,7 +19,7 @@
     "game_mode" : "tow",
     "default_time_limit" : 0,
     "advance_on_win" : true,
-    "maps" : ["alpine", "ambush", "battlefarmday128", "beaulieuinf", "bocage", "burbs", "cemetery", "dday0048", "desertcourse", "easternbay", "favela", "golf", "hiesville", "hillfort", "hoth", "industry", "lastbastiondemo", "lonetower", "lostvalleyinf", "marketgarden", "mesa", "moskvametro", "mtmchawk_babel", "neonormandie", "oasis", "PAdesert", "paradise", "planecrashdisaster", "rorkesdrift", "siberia", "smallcourse", "stmat", "summerfields", "trenches", "urara", "normandie"],
+    "maps" : ["alpine", "ambush", "battlefarmday128", "beaulieuinf", "bocage", "burbs", "cemetery", "dday0048", "desertcourse", "easternbay", "favela", "golf", "hiesville", "hillfort", "hoth", "industry", "lonetower", "lostvalleyinf", "marketgarden", "mesa", "moskvametro", "mtmchawk_babel", "neonormandie", "oasis", "rorkesdrift", "siberia", "smallcourse", "stmat", "summerfields", "trenches", "urara", "normandie"],
     "random_rotation" : true,
 
     "respawn_time" : 4,
