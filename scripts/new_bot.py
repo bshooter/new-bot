@@ -1,4 +1,4 @@
-# github.com
+# github.com/bshooter
 # there should be no water on the map
 # requires adding the 'local' attribute to server.py's ServerConnection
 # 
