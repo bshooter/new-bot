@@ -10,7 +10,7 @@
     "tip_frequency" : 5,
     "rules" : [
     ],
-    "master" : true,
+    "master" : false,
     "max_players" : 32,
     "max_connections_per_ip" : 3,
     "port" : 32887,
@@ -113,6 +113,7 @@
         "medkit",
         "recovery",
         "strongblock",
+        "ammo",
         "new_bot"
     ],
 
